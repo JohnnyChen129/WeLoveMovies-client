@@ -12,3 +12,4 @@ Use `npm start` to run the application. If you deploy this application, create a
 Front End Application
 
 https://pure-fortress-94326.herokuapp.com/
+https://pure-fortress-94326.herokuapp.com/movies
